@@ -1,20 +1,25 @@
 # Chenghao Wang
 
 MSc Industrial Design student at Eindhoven University of Technology (TU/e).
-I study how people can shape the way robots move and behave, through co-design, demonstration and generative
-models, in human–robot interaction.
 
-**Interests:** human–robot interaction · expressive robot motion · learning from demonstration ·
-end-user robot programming · vision-language models for robot behaviour
+I investigate how **non-expert end users** can **personalise robot behaviour in everyday contexts** without
+programming. Combining participatory design, learning from demonstration and vision-language models, my work
+examines how a robot's motion can reflect individual users' preferences rather than a fixed, designer-authored script.
+
+**Research interests:** end-user robot programming · learning from demonstration · personalised and expressive
+robot motion · VLM-driven robot behaviour · participatory design
 
 ## Projects
 
-- **[xlerobot-vr-teleop](https://github.com/Xaho9-11/xlerobot-vr-teleop)** — VR teleoperation and demonstration
-  recording for a dual-arm mobile robot, the research platform of my Final Master Project on how non-experts can
-  teach a robot their preferred way of performing a task (2026–).
-- **[scripted-to-spontaneous-miro](https://github.com/Xaho9-11/scripted-to-spontaneous-miro)** — a VLM-driven
-  behaviour system for the MiRo-E companion robot, co-designed with users and evaluated in a within-participant
-  study (2026).
+- **[xlerobot-vr-teleop](https://github.com/Xaho9-11/xlerobot-vr-teleop)** — *Programming by demonstration for
+  non-expert users.* Participants teach a dual-arm mobile robot their preferred way of performing an everyday task
+  through first-person VR teleoperation; the demonstrations are encoded into reusable behaviour patterns.
+  Research platform of my Final Master Project (2026–).
+- **[scripted-to-spontaneous-miro](https://github.com/Xaho9-11/scripted-to-spontaneous-miro)** — *Personalised
+  behaviour for a desktop companion robot during focused work.* Users co-design a movement profile grounded in
+  Laban Movement Analysis, and a vision-language model selects and parameterises behaviours from the user's
+  posture, gaze and touch. Perceived animacy was higher than with a scripted baseline, while cognitive load and
+  discomfort were non-inferior (ACM TEI '27).
 
 ## Publication
 
